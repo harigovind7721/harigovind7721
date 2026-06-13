@@ -9,7 +9,7 @@
 ### About me
 
 I'm a 3rd-year BCA (Honours) student at Kristu Jyoti College of Management and Technology,
-Changanacherry, with a specialisation in AI/ML. I've completed two internships — a web
+Changanacherry. I've completed two internships — a web
 designing internship at Tisser Technologies (May 2025) and a 240-hour Data Analytics
 internship at MashupStack, Trivandrum (Apr–May 2026), where I worked on retail sales
 analytics and business performance optimisation using real-world datasets.
